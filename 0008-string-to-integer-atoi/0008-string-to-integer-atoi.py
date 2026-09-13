@@ -1,11 +1,9 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        # Step 1: Remove leading whitespaces
         s = s.lstrip()
         if not s:
             return 0
         
-        # Step 2: Check for sign
         sign = 1
         index = 0
         
@@ -15,7 +13,6 @@ class Solution:
         elif s[0] == '+':
             index += 1
             
-        # Step 3: Conversion & Rounding
         result = 0
         INT_MIN = -2**31
         INT_MAX = 2**31 - 1
