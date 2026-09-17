@@ -35,6 +35,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0128-longest-consecutive-sequence](https://github.com/akshayh0/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/akshayh0/DSA-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshayh0/DSA-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akshayh0/DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akshayh0/DSA-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/akshayh0/DSA-Python/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/akshayh0/DSA-Python/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -66,6 +68,7 @@ My Data Structures and Algorithms learning journey using Python
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshayh0/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshayh0/DSA-Python/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/akshayh0/DSA-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshayh0/DSA-Python/tree/master/0268-missing-number) |
 ## Sorting
 |  |
