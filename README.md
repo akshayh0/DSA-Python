@@ -14,6 +14,7 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/akshayh0/DSA-Python/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0918-maximum-sum-circular-subarray) |
@@ -27,6 +28,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0011-container-with-most-water](https://github.com/akshayh0/DSA-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayh0/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0152-maximum-product-subarray) |
@@ -41,6 +43,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0011-container-with-most-water](https://github.com/akshayh0/DSA-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/akshayh0/DSA-Python/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -115,4 +118,12 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
