@@ -30,6 +30,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayh0/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/akshayh0/DSA-Python/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/akshayh0/DSA-Python/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -68,6 +70,7 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshayh0/DSA-Python/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -126,4 +129,12 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
