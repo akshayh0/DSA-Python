@@ -22,10 +22,12 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayh0/DSA-Python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayh0/DSA-Python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +42,8 @@ My Data Structures and Algorithms learning journey using Python
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshayh0/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshayh0/DSA-Python/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
