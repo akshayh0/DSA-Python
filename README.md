@@ -10,6 +10,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0010-regular-expression-matching](https://github.com/akshayh0/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/akshayh0/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshayh0/DSA-Python/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akshayh0/DSA-Python/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayh0/DSA-Python/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akshayh0/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshayh0/DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayh0/DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
@@ -149,4 +151,8 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshayh0/DSA-Python/tree/master/0054-spiral-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshayh0/DSA-Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
