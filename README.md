@@ -12,6 +12,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0013-roman-to-integer](https://github.com/akshayh0/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshayh0/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshayh0/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshayh0/DSA-Python/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akshayh0/DSA-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ My Data Structures and Algorithms learning journey using Python
 | [0075-sort-colors](https://github.com/akshayh0/DSA-Python/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akshayh0/DSA-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshayh0/DSA-Python/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +143,7 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshayh0/DSA-Python/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,8 +172,13 @@ My Data Structures and Algorithms learning journey using Python
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshayh0/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshayh0/DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/akshayh0/DSA-Python/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
